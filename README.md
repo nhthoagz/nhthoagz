@@ -34,4 +34,3 @@ I am a final-year Computer Science (AI) student at FPT University, expecting to 
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/nhhoagz](https://www.linkedin.com/in/nhhoagz/)
 - **Email:** huang382003@gmail.com
-- **Portfolio:** [Link to your HTML Portfolio - nếu bạn có host lên GitHub Pages]
