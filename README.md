@@ -1,35 +1,37 @@
-# Hi there, I'm Nhat Hoang 👋
+# Hi, I'm Nhat Hoang 👋
 
-### 👨‍💻 AI Engineer | Computer Vision & LLMs
-I'm a passionate AI Engineer based in Ha Noi, focusing on Computer Vision and Retrieval-Augmented Generation (RAG). I love building end-to-end solutions that solve real-world problems.
+### AI Engineer | Computer Vision & MLOps
+I am a final-year Computer Science (AI) student at FPT University, expecting to graduate in Dec 2026. I have hands-on experience building end-to-end Machine Learning pipelines, from data processing to model training and edge deployment.
 
-- 🔭 I’m currently working on **PhytoScan_Plant** (Plant disease detection).
-- 🌱 I’m currently learning **RAG systems, AI Agents, and MLOps**.
-- 🎯 Goal: Building production-ready AI applications.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nhhoagz/) | [Email](mailto:your.email@gmail.com)
+- 🔭 Currently focusing on **Computer Vision (YOLO, OpenCV)** and **LLM applications (RAG, AI Agents)**.
+- 💼 Ex-Intern at **VNPT Media** (Technical Team).
+- 🎯 Goal: Become a Production AI Engineer, solving real-world problems with optimized models.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**AI & Machine Learning:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF9900?style=flat&logo=yolo&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-**MLOps & Tools:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+**AI / Machine Learning:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF9900?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**MLOps & Deployment:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
 
-#### 🌿 [PhytoScan_Plant](https://github.com/ruhua2305/PhytoScan_Plant)
-*Plant disease detection system using YOLO and OpenCV.*
-- **Tech:** Python, YOLOv8, OpenCV, ONNX
-- **Highlight:** Optimized for edge devices, achieving [X] FPS on RTX 3050ti.
-- **Demo:** [https://phytoscan-plant.onrender.com]
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/nhhoagz](https://www.linkedin.com/in/nhhoagz/)
+- **Email:** huang382003@gmail.com
+- **Portfolio:** [Link to your HTML Portfolio - nếu bạn có host lên GitHub Pages]
